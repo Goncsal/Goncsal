@@ -1,5 +1,5 @@
 # About Me:
-Im a Software Engineer Student @ DETI UA :)
+Im a Software Engineer Student @ DETI UA 
 
 
 ## Socials:
