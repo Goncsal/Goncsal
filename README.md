@@ -1,6 +1,7 @@
 # About Me:
 Im a Software Engineer Student @ DETI UA 
 
+Portfolio: https://portfolio-ebon-ten-20.vercel.app/
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goncalodfalmeida) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonçalo-almeida-90b6a1269) 
