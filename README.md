@@ -1,5 +1,6 @@
 # About Me:
-Im a Software Engineer Student @ DETI UA 
+Bsc Software Engineer @ DETI UA 
+Currently doing a Msc in CyberSecurity @ DETI UA 
 
 Portfolio: https://portfolio-ebon-ten-20.vercel.app/
 
